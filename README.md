@@ -9,5 +9,3 @@ xian99y/xian99y is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-qwertyuiop hihihihi
